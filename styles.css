@@ -1,0 +1,36 @@
+.full {
+		background: #FF0099;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to bottom, #493240, #FF0099);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to bottom, #493240, #FF0099); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+#Tit{
+
+	text-align: center;
+	font-weight: bolder;
+}
+
+#wel{
+
+	font-weight: bolder;
+	color: lightgrey;
+	font-family: monospace;
+}
+
+#tog{
+
+	outline: none;
+	outline-color: none;
+	background: transparent;
+}
+
+#sec{
+
+	text-align: right;
+	margin-right:2px;
+}
+#me{
+
+	color: #D6C831;
+}
